@@ -5,6 +5,8 @@ Repo Name: https://github.com/ucsb-cs156-f22/jpa03-sergioacolis
 
 on Render.com: https://jpa03-sergioacolischavez.onrender.com
 
+on Heroku: https://jpa03-sergioacolis.herokuapp.com
+
 Storybook is here:
 * Production: <https://github.com/ucsb-cs156-f22/jpa03-sergioacolis-docs>
 * QA:  <https://github.com/ucsb-cs156-f22/jpa03-sergioacolis-docs-qa>
