@@ -1,6 +1,10 @@
 # demo-spring-react-example-v2: dsre-v2
 [![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-sergioacolis/branch/main/graph/badge.svg?token=SAXF6P65EH)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-sergioacolis)
 
+Repo Name: https://github.com/ucsb-cs156-f22/jpa03-sergioacolis
+
+on Render.com: https://jpa03-sergioacolischavez.onrender.com
+
 Storybook is here:
 * Production: <https://github.com/ucsb-cs156-f22/jpa03-sergioacolis-docs>
 * QA:  <https://github.com/ucsb-cs156-f22/jpa03-sergioacolis-docs-qa>
