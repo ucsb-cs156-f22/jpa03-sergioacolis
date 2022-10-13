@@ -8,8 +8,8 @@ on Render.com: https://jpa03-sergioacolischavez.onrender.com
 on Heroku: https://jpa03-sergioacolis.herokuapp.com
 
 Storybook is here:
-* Production: <https://github.com/ucsb-cs156-f22/jpa03-sergioacolis-docs>
-* QA:  <https://github.com/ucsb-cs156-f22/jpa03-sergioacolis-docs-qa>
+* Production: <https://ucsb-cs156-f22.github.io/jpa03-sergioacolis-docs/>
+* QA:  <https://ucsb-cs156-f22.github.io/jpa03-sergioacolis-docs-qa/>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
